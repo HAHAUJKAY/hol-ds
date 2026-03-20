@@ -1,0 +1,24 @@
+baseURL = 'https://hol.ds.pages.dev/'
+languageCode = 'zh-cn'
+title = '我的博客'
+theme = 'hextra'
+
+# 启用标签和分类
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# 主题配置
+[params]
+  description = '记录生活，分享思考'
+  
+  # 导航菜单
+  [[menu.main]]
+    name = "文章"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 2
