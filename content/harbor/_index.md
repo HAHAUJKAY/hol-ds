@@ -10,7 +10,6 @@ draft = false
 <div class="harbor-container">
   <h1>港口 ⛵</h1>
   <p>这里是资源汇集的港口，存放着各种有用的资料和工具。</p>
-  
   <div class="resource-grid">
     <div class="resource-card">
       <h3>📚 学习资源</h3>
@@ -20,7 +19,6 @@ draft = false
         <li>电子书</li>
       </ul>
     </div>
-    
     <div class="resource-card">
       <h3>🛠️ 工具集</h3>
       <ul>
@@ -29,7 +27,6 @@ draft = false
         <li>浏览器扩展</li>
       </ul>
     </div>
-    
     <div class="resource-card">
       <h3>🔗 链接收集</h3>
       <ul>
@@ -38,7 +35,6 @@ draft = false
         <li>开源项目</li>
       </ul>
     </div>
-    
     <div class="resource-card">
       <h3>📝 笔记整理</h3>
       <ul>
