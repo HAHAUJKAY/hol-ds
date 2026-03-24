@@ -1,4 +1,5 @@
-baseURL = 'https://hahaujkay.github.io/hol-ds/'
+baseURL = 'https://hahaujkay.github.io/hol-ds'
+canonifyURLs = true
 languageCode = 'zh-cn'
 title = '我的博客'
 theme = 'hextra'
