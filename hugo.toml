@@ -8,6 +8,12 @@ theme = 'hextra'
   tag = "tags"
   category = "categories"
 
+# 启用原始 HTML 支持
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # 主题配置
 [params]
   description = '记录生活，分享思考'

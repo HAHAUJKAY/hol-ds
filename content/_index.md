@@ -17,19 +17,16 @@ draft = false
       <p>探索精彩的故事和回忆</p>
       <a href="/stories/" class="card-link">了解更多 →</a>
     </div>
-    
     <div class="feature-card fade-in-delay-3">
       <h3>⛵ 港口</h3>
       <p>收集和分享各种资源</p>
       <a href="/harbor/" class="card-link">探索 →</a>
     </div>
-    
     <div class="feature-card fade-in-delay-4">
       <h3>📚 关于本站</h3>
       <p>了解这个博客的故事</p>
       <a href="/about/" class="card-link">发现 →</a>
     </div>
-    
     <div class="feature-card fade-in-delay-5">
       <h3>💬 总结-论坛</h3>
       <p>交流和讨论的地方</p>
